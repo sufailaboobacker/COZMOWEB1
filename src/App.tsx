@@ -2,7 +2,6 @@ import { useState, useEffect, useLayoutEffect, useRef } from "react";
 import HomePage from "@/pages/HomePage/index";
 import AboutUs from "@/pages/AboutUs/index";
 import CorporatePage from "@/pages/CorporatePage/index";
-import SharedFooter from "@/components/SharedFooter";
 
 type Page = "home" | "about" | "corporate";
 
@@ -110,11 +109,6 @@ function ScaledPage({
         [data-name="Logo b 2"],
         img[alt="Cozmo Travel"] { cursor: pointer; }
 
-        /* Hide the built-in footer on every imported page so SharedFooter is the only one */
-        [data-name="Home Page"]    > :last-child,
-        [data-name="About us"]     > :last-child,
-        [data-name="Corporate Page"] > :nth-last-child(2) { display: none !important; }
-
         /* Hide the stray floating Login button on Corporate Page */
         [data-name="Corporate Page"] > :last-child { display: none !important; }
       `}</style>
@@ -127,8 +121,6 @@ function ScaledPage({
         }}
       >
         {children}
-        {/* Shared footer replaces each page's built-in footer */}
-        <SharedFooter />
       </div>
     </div>
   );
