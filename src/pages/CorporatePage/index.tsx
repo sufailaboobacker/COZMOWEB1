@@ -415,7 +415,7 @@ function Container18() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Loretta_Display_VF:Medium',sans-serif] font-medium justify-center leading-[0] relative shrink-0 text-[32px] text-white whitespace-nowrap">
-        <p className="leading-[28px]">Looking for your next adventure?</p>
+        <p className="leading-[28px]">Welcome to the future of</p>
       </div>
     </div>
   );
