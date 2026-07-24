@@ -4773,12 +4773,7 @@ function Group7() {
 
 function Frame1() {
   return (
-    <div className="bg-white h-[1316px] overflow-clip relative shrink-0 w-[1920px]">
-      <div className="-translate-x-1/2 absolute flex h-[1063px] items-center justify-center left-1/2 top-[253px] w-[1920px]">
-        <div className="-scale-y-100 flex-none">
-          <div className="bg-white h-[1063px] relative w-[1920px]" />
-        </div>
-      </div>
+    <div className="bg-white h-[1284px] overflow-clip relative shrink-0 w-[1920px]">
       <Group7 />
     </div>
   );
