@@ -454,7 +454,7 @@ function Heading() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Heading 2">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#05203c] text-[68px] tracking-[-2.16px] w-full">
-        <p className="leading-[72px]">Make business travel management easy for the whole team</p>
+        <p className="leading-[72px]">Simplify business travel for your entire organization.</p>
       </div>
     </div>
   );
@@ -493,7 +493,7 @@ function Container24() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#545860] text-[20px] w-full">
-        <p className="leading-[24px]">Our diverse team of industry experts and visionaries is dedicated to redefining travel, combining technological innovation with decades of global expertise to deliver seamless journeys.</p>
+        <p className="leading-[24px]">A dedicated group of specialists and innovators focused on transforming corporate travel, blending cutting-edge tech with years of worldwide experience to deliver smooth, stress-free trips.</p>
       </div>
     </div>
   );
@@ -558,7 +558,7 @@ function Heading1() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Medium',sans-serif] leading-[40px] not-italic relative shrink-0 text-[32px] text-black w-[240px]">{`Service-first structure `}</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Medium',sans-serif] leading-[40px] not-italic relative shrink-0 text-[32px] text-black w-[240px]">Dedicated account teams</p>
       </div>
     </div>
   );
@@ -567,7 +567,7 @@ function Heading1() {
 function Container28() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
-      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[20.8px] not-italic relative shrink-0 text-[16px] text-black w-[240px]">Travellers can rest easy with support from smaller, focused teams... no call centres in sight.</p>
+      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[20.8px] not-italic relative shrink-0 text-[16px] text-black w-[240px]">Employees get personal, responsive support from small dedicated squads, not anonymous call centers.</p>
     </div>
   );
 }
@@ -644,7 +644,7 @@ function Heading2() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Medium',sans-serif] leading-[40px] not-italic relative shrink-0 text-[32px] text-black w-[173px]">{`24/7 Support `}</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Medium',sans-serif] leading-[40px] not-italic relative shrink-0 text-[32px] text-black w-[240px]">Round-the-clock assistance</p>
       </div>
     </div>
   );
@@ -653,7 +653,7 @@ function Heading2() {
 function Container31() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
-      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[20.8px] not-italic relative shrink-0 text-[16px] text-black w-[240px]">If you need to get travellers out, our teams are ready to arrange travel plans.</p>
+      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[20.8px] not-italic relative shrink-0 text-[16px] text-black w-[240px]">Our teams are on standby to rebook and reroute travelers whenever plans change.</p>
     </div>
   );
 }
@@ -730,7 +730,7 @@ function Heading3() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Medium',sans-serif] leading-[40px] not-italic relative shrink-0 text-[32px] text-black w-[240px]">{`AI-empowered technology `}</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Medium',sans-serif] leading-[40px] not-italic relative shrink-0 text-[32px] text-black w-[240px]">Smart, AI-driven platform</p>
       </div>
     </div>
   );
@@ -739,7 +739,7 @@ function Heading3() {
 function Container34() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
-      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[20.8px] not-italic relative shrink-0 text-[16px] text-black w-[240px]">Travel tech built based on client feedback from all users, with agentic AI built in.</p>
+      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[20.8px] not-italic relative shrink-0 text-[16px] text-black w-[240px]">Built from real user feedback, with intelligent automation baked in.</p>
     </div>
   );
 }
@@ -816,7 +816,7 @@ function Heading4() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 3">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Medium',sans-serif] leading-[40px] not-italic relative shrink-0 text-[32px] text-black w-[240px]">{`Built for global scale `}</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Medium',sans-serif] leading-[40px] not-italic relative shrink-0 text-[32px] text-black w-[240px]">Built to scale worldwide</p>
       </div>
     </div>
   );
@@ -825,7 +825,7 @@ function Heading4() {
 function Container37() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
-      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[20.8px] not-italic relative shrink-0 text-[16px] text-black w-[240px]">Designed for programmes with 1,000+ travellers. Presence in 95+ countries.</p>
+      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[20.8px] not-italic relative shrink-0 text-[16px] text-black w-[240px]">Supports programs of 1,000+ travelers across 95+ countries.</p>
     </div>
   );
 }
@@ -911,7 +911,7 @@ function ParagraphMargin() {
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start pb-px relative size-full">
         <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#545860] text-[25.687px] w-[610px]">
           <p className="leading-[32.109px]">
-            We have taken the intuitive, friendly booking flows that travelers love and packed them with business-grade analytics controls. Now, your employees get standard ease, while finance gets complete audit confidence.
+            the same easy, familiar booking experience travelers already love, now paired with enterprise-grade reporting and controls, giving employees simplicity and finance full visibility.
           </p>
         </div>
       </div>
@@ -953,7 +953,7 @@ function Heading5() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 4">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Bold',sans-serif] leading-[32.109px] not-italic relative shrink-0 text-[#101828] text-[25.687px] whitespace-nowrap">Unlock 10% to 20% discounts</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Bold',sans-serif] leading-[32.109px] not-italic relative shrink-0 text-[#101828] text-[25.687px] whitespace-nowrap">Save 10–20% instantly</p>
       </div>
     </div>
   );
@@ -963,7 +963,7 @@ function Paragraph() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start pt-[6.422px] relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#99a1af] text-[20px] w-[696.771px]">Get immediate Genius Business discounts at thousands of participating corporate hotels.</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#99a1af] text-[20px] w-[696.771px]">Access exclusive Genius Business rates at partner hotels worldwide.</p>
       </div>
     </div>
   );
@@ -1025,7 +1025,7 @@ function Heading6() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 4">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Bold',sans-serif] leading-[32.109px] not-italic relative shrink-0 text-[#101828] text-[25.687px] whitespace-nowrap">Manage travel compliance</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Bold',sans-serif] leading-[32.109px] not-italic relative shrink-0 text-[#101828] text-[25.687px] whitespace-nowrap">Automated policy enforcement</p>
       </div>
     </div>
   );
@@ -1035,7 +1035,7 @@ function Paragraph1() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start pt-[6.422px] relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#99a1af] text-[20px] w-[696.771px]">Establish company policies once, and block flights or hotels exceeding limits automatically.</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#99a1af] text-[20px] w-[696.771px]">Define your rules once and let the system flag or block out-of-policy bookings.</p>
       </div>
     </div>
   );
@@ -1097,7 +1097,7 @@ function Heading7() {
   return (
     <div className="relative shrink-0 w-full" data-name="Heading 4">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Bold',sans-serif] leading-[32.109px] not-italic relative shrink-0 text-[#101828] text-[25.687px] whitespace-nowrap">24/7 dedicated support desk</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Bold',sans-serif] leading-[32.109px] not-italic relative shrink-0 text-[#101828] text-[25.687px] whitespace-nowrap">Always-on support desk</p>
       </div>
     </div>
   );
@@ -1107,7 +1107,7 @@ function Paragraph2() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start pt-[6.422px] relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#99a1af] text-[20px] w-[696.771px]">No long queues or automated bots. Speak with professional travel specialists in seconds.</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#99a1af] text-[20px] w-[696.771px]">Skip the hold music — talk to real travel experts anytime.</p>
       </div>
     </div>
   );
@@ -1200,7 +1200,7 @@ function Container54() {
 function Container38() {
   return (
     <div className="content-stretch flex flex-col gap-[36px] items-start max-w-[1520px] relative shrink-0 w-[1520px] my-auto" data-name="Container">
-      <p className="[word-break:break-word] font-['Helvetica_Neue:Bold',sans-serif] leading-[1.15] not-italic relative shrink-0 text-[#101828] text-[56px] tracking-[-1.4px] w-[757.778px]">Everything you like about Cozmo Travel, built for corporate travel</p>
+      <p className="[word-break:break-word] font-['Helvetica_Neue:Bold',sans-serif] leading-[1.15] not-italic relative shrink-0 text-[#101828] text-[56px] tracking-[-1.4px] w-[757.778px]">All the benefits of Cozmo Travel, now for your business</p>
       <Container39 />
       <Container54 />
     </div>
@@ -1219,7 +1219,7 @@ function Heading8() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Heading 2">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#05203c] text-[68px] tracking-[-2.16px] w-[881px]">
-        <p className="leading-[72px]">Easily oversee your team and travel spend</p>
+        <p className="leading-[72px]">Take full control of your team's travel budget</p>
       </div>
     </div>
   );
@@ -1258,7 +1258,7 @@ function Container59() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#545860] text-[20px] w-full">
-        <p className="leading-[24px]">Corporate travel does not need to be a nightmare of scattered receipts and unapproved expenses. Centralize billing, restrict budgets by traveler levels, and track savings in real-time.</p>
+        <p className="leading-[24px]">no more chasing receipts or approving expenses manually; consolidate billing, set spending limits by role, and monitor savings as they happen.</p>
       </div>
     </div>
   );
@@ -1336,7 +1336,7 @@ function Heading9() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-[285px]" data-name="Heading 5">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0062e3] text-[24px] tracking-[-0.72px] w-full">
-        <p className="leading-[32px]">Save time managing team</p>
+        <p className="leading-[32px]">Faster team management</p>
       </div>
     </div>
   );
@@ -1346,7 +1346,7 @@ function Container63() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#545860] text-[20px] w-full">
-        <p className="leading-[24px]">Establish policy caps once. Prevent out-of-policy bookings instantly before they scale.</p>
+        <p className="leading-[24px]">Configure spending rules once and stop non-compliant bookings before they happen.</p>
       </div>
     </div>
   );
@@ -1415,7 +1415,7 @@ function Heading10() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Heading 5">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0062e3] text-[24px] tracking-[-0.72px] w-full">
-        <p className="leading-[32px]">Consolidated cards</p>
+        <p className="leading-[32px]">Unified corporate cards</p>
       </div>
     </div>
   );
@@ -1425,7 +1425,7 @@ function Container66() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#545860] text-[20px] w-full">
-        <p className="leading-[24px]">Link dedicated company cards to specific employee departments for immediate payments.</p>
+        <p className="leading-[24px]">Assign company cards directly to departments for instant, trackable payments.</p>
       </div>
     </div>
   );
@@ -1492,7 +1492,7 @@ function Heading11() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Heading 5">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0062e3] text-[24px] tracking-[-0.72px] w-full">
-        <p className="leading-[32px]">Direct monthly invoice</p>
+        <p className="leading-[32px]">One monthly invoice</p>
       </div>
     </div>
   );
@@ -1502,7 +1502,7 @@ function Container69() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#545860] text-[20px] w-[284px]">
-        <p className="leading-[24px]">Recoup VAT easily with a single, consolidated invoice for all department travel bookings.</p>
+        <p className="leading-[24px]">Simplify VAT recovery with a single combined bill covering every department's travel.</p>
       </div>
     </div>
   );
@@ -1560,7 +1560,7 @@ function Heading12() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Heading 5">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0062e3] text-[24px] tracking-[-0.72px] w-full">
-        <p className="leading-[32px]">A huge range of options</p>
+        <p className="leading-[32px]">Seamless integrations</p>
       </div>
     </div>
   );
@@ -1570,7 +1570,7 @@ function Container72() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#545860] text-[20px] w-full">
-        <p className="leading-[24px]">Automatically push reservation data into SAP Concur or Expensify with zero delay.</p>
+        <p className="leading-[24px]">Sync booking data instantly with tools like SAP Concur or Expensify.</p>
       </div>
     </div>
   );
@@ -1633,7 +1633,7 @@ function EndRowWrapper11() {
     <div className="content-stretch flex items-start justify-between relative shrink-0 w-full" data-name="end row-wrapper">
       <div className="content-stretch flex flex-col items-start justify-center relative shrink-0 w-[1124px]">
         <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[1.1] not-italic relative shrink-0 text-[#05203c] text-[56px] tracking-[-1.8px] w-full">
-          <p>Make business travel management easy for the whole team</p>
+          <p>Simplify business travel for your entire organization</p>
         </div>
       </div>
     </div>
@@ -1645,7 +1645,7 @@ function EndRowWrapper12() {
     <div className="content-stretch flex items-start justify-between relative shrink-0 w-full" data-name="end row-wrapper">
       <div className="content-stretch flex flex-col items-start justify-center relative shrink-0 w-[1124px]">
         <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular',sans-serif] justify-center leading-[1.4] not-italic relative shrink-0 text-[#545860] text-[20px] w-full">
-          <p>Our diverse team of industry experts and visionaries is dedicated to redefining travel, combining technological innovation with decades of global expertise to deliver seamless journeys.</p>
+          <p>A dedicated group of specialists and innovators focused on transforming corporate travel, blending cutting-edge tech with years of worldwide experience to deliver smooth, stress-free trips.</p>
         </div>
       </div>
     </div>
@@ -1654,30 +1654,30 @@ function EndRowWrapper12() {
 
 const TAB_DATA = {
   arrangers: {
-    title: "Streamline booking for travel arrangers",
+    title: "Simplify bookings for your travel coordinators",
     points: [
-      "Manage all traveler profiles and preferences in one clean dashboard.",
-      "Add, remove, or organize team members into departments with ease.",
-      "Multi-passenger booking with seat selection & frequent flyer sync.",
-      "Enforce travel policies automatically at the moment of reservation."
+      "Oversee every traveler's profile and preferences from a single dashboard",
+      "Group employees into departments effortlessly",
+      "Book multiple passengers at once with seat choice and loyalty program syncing",
+      "Apply travel policies automatically at checkout"
     ]
   },
   financial: {
-    title: "Control costs & automate expense reporting",
+    title: "Take full control of team travel budgets",
     points: [
-      "Set automated budget caps by department, role, or trip tier.",
-      "Consolidated monthly invoicing with direct VAT breakdown.",
-      "Instant ERP integration with SAP Concur, Expensify & QuickBooks.",
-      "Real-time spend analytics and out-of-policy violation alerts."
+      "Set automated budget caps by department, role, or trip tier",
+      "One monthly invoice with direct VAT breakdown",
+      "Instant sync with tools like SAP Concur or Expensify",
+      "Real-time spend analytics and out-of-policy alerts"
     ]
   },
   travelers: {
-    title: "Seamless 24/7 travel experience for employees",
+    title: "Stress-free business trips for employees",
     points: [
-      "Mobile app for digital boarding passes & itinerary management.",
-      "Instant 24x7 support specialists available in seconds.",
-      "One-click self-booking within pre-approved company policy.",
-      "Automated flight disruption alerts and instant rebooking options."
+      "Mobile app for itineraries and digital boarding passes",
+      "Instant 24/7 support specialists available anytime",
+      "One-click self-booking within company policy limits",
+      "Automated flight disruption alerts and instant rebooking"
     ]
   }
 };
@@ -1760,12 +1760,8 @@ function Group3() {
 function Heading14() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Heading 2">
-      <div className="[word-break:break-word] flex flex-col font-['Inter:Bold',sans-serif] font-bold justify-center leading-[0] not-italic relative shrink-0 text-[#05203c] text-[0px] tracking-[-2.16px] w-full">
-        <p className="text-[68px]">
-          <span className="font-['Helvetica_Neue:Bold',sans-serif] leading-[72px] not-italic">Powered by smart</span>
-          <span className="font-['Helvetica_Neue:Bold',sans-serif] leading-[72px] not-italic text-[#161616]">{` `}</span>
-          <span className="font-['Helvetica_Neue:Bold_Italic',sans-serif] italic leading-[72px] text-[#0062e3]">targeting</span>
-        </p>
+      <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#05203c] text-[68px] tracking-[-2.16px] w-full">
+        <p className="leading-[72px]">Driven by intelligent audience insights</p>
       </div>
     </div>
   );
@@ -1804,8 +1800,7 @@ function Container93() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#545860] text-[20px] w-full">
-        <p className="leading-[24px] mb-0">Reach travellers actively researching, comparing and exploring trips through rich intent signals, powered by first-</p>
-        <p className="leading-[24px]">party behavioural insights that uncover audience mindsets and motivations.</p>
+        <p className="leading-[24px]">Connect with travelers actively planning and comparing trips, using rich behavioral data that reveals what drives their decisions.</p>
       </div>
     </div>
   );
@@ -2772,8 +2767,7 @@ function Heading15() {
     <div className="relative shrink-0 w-full" data-name="Heading 2">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center relative size-full">
         <div className="[word-break:break-word] font-['Helvetica_Neue:Bold',sans-serif] leading-[0] not-italic relative shrink-0 text-[#0062f0] text-[48px] text-center tracking-[-1.2px] whitespace-nowrap">
-          <p className="leading-[52px] mb-0 whitespace-pre">{`Set your free Cozmo Travel `}</p>
-          <p className="leading-[52px] whitespace-pre">for Business account.</p>
+          <p className="leading-[52px] mb-0 whitespace-pre">Start your free Cozmo Travel for Business account.</p>
         </div>
       </div>
     </div>
@@ -2784,7 +2778,7 @@ function ParagraphMargin1() {
   return (
     <div className="relative shrink-0 w-full" data-name="Paragraph:margin">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-center pt-[24px] relative size-full">
-        <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#575655] text-[20px] text-center w-[512px]">Join thousands of businesses saving administrative hours and travel costs. Accounts are 100% free with zero configuration charges.</p>
+        <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#575655] text-[20px] text-center w-[580px]">Thousands of companies already save time and money on travel admin. No setup costs, no hidden fees.</p>
       </div>
     </div>
   );
@@ -2837,7 +2831,7 @@ function ContainerMargin21() {
 function Paragraph3() {
   return (
     <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-name="Paragraph">
-      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[16px] not-italic relative shrink-0 text-[#545860] text-[12px] text-center tracking-[0.275px] uppercase whitespace-nowrap">No setups fees · Consolidated invoice billing · 24/7 care</p>
+      <p className="[word-break:break-word] font-['Helvetica_Neue:Regular',sans-serif] leading-[16px] not-italic relative shrink-0 text-[#545860] text-[12px] text-center tracking-[0.275px] uppercase whitespace-nowrap">ZERO SETUP FEES · ONE CONSOLIDATED INVOICE · 24/7 SUPPORT</p>
     </div>
   );
 }
@@ -2909,7 +2903,7 @@ function Group2() {
 function Group1() {
   return (
     <div className="absolute contents left-[200px] top-[109.86px]">
-      <p className="[word-break:break-word] absolute font-['Helvetica_Neue:Bold',sans-serif] leading-none left-[200px] not-italic text-[96px] text-white top-[109.86px] tracking-[-3.84px] w-[924px]">Ready to plan your next adventure?</p>
+      <p className="[word-break:break-word] absolute font-['Helvetica_Neue:Bold',sans-serif] leading-none left-[200px] not-italic text-[96px] text-white top-[109.86px] tracking-[-3.84px] w-[924px]">Planning your next getaway?</p>
     </div>
   );
 }
@@ -2954,7 +2948,7 @@ function Group4() {
 function Group5() {
   return (
     <div className="absolute contents left-[200px] top-[332.41px]">
-      <p className="[word-break:break-word] absolute font-['Helvetica_Neue:Regular',sans-serif] leading-[28px] left-[200px] not-italic text-[18px] text-[rgba(255,255,255,0.8)] top-[332.41px] whitespace-nowrap">Our travel experts are ready to craft your perfect getaway.</p>
+      <p className="[word-break:break-word] absolute font-['Helvetica_Neue:Regular',sans-serif] leading-[28px] left-[200px] not-italic text-[18px] text-[rgba(255,255,255,0.8)] top-[332.41px] whitespace-nowrap">Our travel specialists are ready to design the perfect trip for you.</p>
       <Group4 />
     </div>
   );
