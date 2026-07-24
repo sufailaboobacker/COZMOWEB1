@@ -7,6 +7,8 @@ import imgImageIntegracion from "@/assets/images/corporate/corporate-integracion
 import imgImageFcmConsultingCorporateTravelTrendsEscalationCommunication from "@/assets/images/corporate/corporate-trends.png";
 import imgImage461 from "@/assets/images/corporate/corporate-feature.png";
 import imgImageBryanBatistaCeoOfCozmoTravel from "@/assets/images/corporate/corporate-bryan-batista.png";
+import imgCorporateBudgetDashboard from "@/assets/images/corporate/corporate-budget-dashboard.png";
+import imgCorporateTravelCoordinator from "@/assets/images/corporate/corporate-travel-coordinator.png";
 import imgWise1 from "@/assets/images/logos/logo-wise.png";
 import imgUber1 from "@/assets/images/logos/logo-uber.png";
 import imgApple1 from "@/assets/images/logos/logo-apple.png";
@@ -1598,8 +1600,8 @@ function Container70() {
 
 function ImageBryanBatistaCeoOfCozmoTravel() {
   return (
-    <div className="absolute h-[561px] left-0 rounded-[6px] top-[4.22px] w-[673px]" data-name="Image (Bryan Batista, CEO of Cozmo Travel)">
-      <img alt="" className="absolute bg-clip-padding border-0 border-[transparent] border-solid inset-0 max-w-none object-cover pointer-events-none rounded-[6px] size-full" src={imgImageBryanBatistaCeoOfCozmoTravel} />
+    <div className="absolute h-[561px] left-0 rounded-[6px] top-[4.22px] w-[673px]" data-name="Image (Budget Dashboard)">
+      <img alt="Corporate Budget Dashboard" className="absolute bg-clip-padding border-0 border-[transparent] border-solid inset-0 max-w-none object-cover pointer-events-none rounded-[6px] size-full" src={imgCorporateBudgetDashboard} />
     </div>
   );
 }
@@ -1732,7 +1734,7 @@ function Group3() {
         {/* Content Box */}
         <div className="w-[1520px] flex items-center justify-between gap-[48px] relative shrink-0 mt-[20px]">
           <div className="w-[693px] h-[480px] rounded-[24px] overflow-hidden relative shrink-0 shadow-2xl border border-gray-100">
-            <img alt="Cozmo Corporate Travel" className="w-full h-full object-cover" src={imgImageBryanBatistaCeoOfCozmoTravel} />
+            <img alt="Corporate Travel Coordinator" className="w-full h-full object-cover" src={imgCorporateTravelCoordinator} />
           </div>
           <div className="flex-1 flex flex-col gap-[24px]">
             <h3 className="font-['Helvetica_Neue:Bold',sans-serif] text-[40px] text-[#101828] leading-[48px] tracking-tight">
