@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap");
+
+@font-face {
+  font-family: "Loretta Display VF";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: local("Loretta Display VF"), local("LorettaDisplayVF"), local("Playfair Display"), serif;
+}
+
+@font-face {
+  font-family: "Loretta_Display_VF:Medium_Italic";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: local("Loretta Display VF"), local("LorettaDisplayVF"), local("Playfair Display"), serif;
+}
+
+.font-loretta {
+  font-family: "Loretta Display VF", "Playfair Display", "Lora", serif !important;
+}
