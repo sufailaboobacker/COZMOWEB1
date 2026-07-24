@@ -542,7 +542,7 @@ function Container27() {
   return (
     <div className="content-stretch flex flex-col items-center py-[8px] relative shrink-0 w-full" data-name="Container">
       <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0062e3] text-[96px] text-center whitespace-nowrap">
-        <p className="leading-[95.99px]">160m+</p>
+        <p className="leading-[95.99px]">60m+</p>
       </div>
     </div>
   );
@@ -579,7 +579,7 @@ function Container29() {
   return (
     <div className="content-stretch flex flex-col items-center py-[8px] relative shrink-0 w-full" data-name="Container">
       <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0062e3] text-[96px] text-center whitespace-nowrap">
-        <p className="leading-[95.99px]">180</p>
+        <p className="leading-[95.99px]">10+</p>
       </div>
     </div>
   );
@@ -608,7 +608,7 @@ function Container31() {
   return (
     <div className="content-stretch flex flex-col items-center py-[8px] relative shrink-0 w-full" data-name="Container">
       <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0062e3] text-[96px] text-center whitespace-nowrap">
-        <p className="leading-[95.99px]">1,200+</p>
+        <p className="leading-[95.99px]">600+</p>
       </div>
     </div>
   );
@@ -3261,12 +3261,8 @@ function ContainerMargin18() {
 function Heading2() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Heading 2">
-      <div className="[word-break:break-word] flex flex-col font-['Inter:Bold',sans-serif] font-bold justify-center leading-[0] not-italic relative shrink-0 text-[#05203c] text-[0px] tracking-[-2.16px] w-full">
-        <p className="text-[68px]">
-          <span className="font-['Helvetica_Neue:Bold',sans-serif] leading-[72px] not-italic">smart</span>
-          <span className="font-['Helvetica_Neue:Bold',sans-serif] leading-[72px] not-italic text-[#161616]">{` `}</span>
-          <span className="font-['Helvetica_Neue:Bold_Italic',sans-serif] italic leading-[72px] text-[#0062e3]">Meet our team</span>
-        </p>
+      <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#05203c] text-[68px] tracking-[-2.16px] w-full">
+        <p className="leading-[72px]">Meet Our Team</p>
       </div>
     </div>
   );
@@ -3778,11 +3774,10 @@ function Container245() {
 
 function Container232() {
   return (
-    <div className="gap-x-[32px] gap-y-[32px] grid grid-cols-[repeat(4,minmax(0,1fr))] grid-rows-[repeat(1,minmax(0,1fr))] h-[534.75px] relative shrink-0 w-full" data-name="Container">
+    <div className="gap-x-[32px] gap-y-[32px] grid grid-cols-[repeat(3,minmax(0,1fr))] grid-rows-[repeat(1,minmax(0,1fr))] h-[534.75px] relative shrink-0 w-full" data-name="Container">
       <Container233 />
       <Container237 />
       <Container241 />
-      <Container245 />
     </div>
   );
 }
